@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.dribbble.com/users/501889/screenshots/3311200/white-label-animation.gif)](https://cdn.dribbble.com/users/501889/screenshots/3311200/white-label-animation.gif)
+<img width="1600" heigh="480" src="<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/44/f0/02/44f002166db0c224c90703f18a659dae.gif">">
 <h1 align="center">Hi 👋, I'm Ali Dabachil</h1>
 <h3 align="center">A Software engineering student from University of Science and Technology, Montpellier (FR)</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/44/f0/02/44f002166db0c224c90703f18a659dae.gif">
