@@ -1,6 +1,6 @@
 [![MasterHead](https://ianttechnology.com/Content/images/banner-software-development.png)](https://ianttechnology.com/Content/images/banner-software-development.png)
-<h1 align="center">Hi 👋, I'm Synez7</h1>
-<h3 align="center">A Software engineering student from Montpellier (FR)</h3>
+<h1 align="center">Hi 👋, I'm Ali Dabachil</h1>
+<h3 align="center">A Software engineering student from University of Science and Technology, Montpellier (FR)</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/44/f0/02/44f002166db0c224c90703f18a659dae.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=synez7&label=Profile%20views&color=0e75b6&style=flat" alt="synez7" /> </p>
