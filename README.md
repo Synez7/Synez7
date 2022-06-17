@@ -1,3 +1,4 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
 <h1 align="center">Hi 👋, I'm Synez7</h1>
 <h3 align="center">A Software engineering student from Montpellier (FR)</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/44/f0/02/44f002166db0c224c90703f18a659dae.gif">
