@@ -10,7 +10,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<img align="left" height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg">  <b>Synez7#7300</b> 
+<a href="https://twitter.com/rishavchanda" target="blank"><img align="left" height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg">  <b>Synez7#7300</b> 
+ </a>
  
  <a href="https://twitter.com/rishavchanda" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishavchanda" height="30" width="40" /></a>
  
