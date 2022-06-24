@@ -15,7 +15,7 @@
  <a href="https://instagram.com/rishav_chanda" target="blank">  <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rishav_chanda" height="38" width="48" /></a>  
 </p> 
 
-<p style="margin-top:9em;"> <b> Synez7#7300 </b></p>
+<p style="margin-top:33em;"> <b> Synez7#7300 </b></p>
 </p>
 
 
