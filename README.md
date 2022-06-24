@@ -12,10 +12,10 @@
  
 <a href="https://fr.linkedin.com/in/ali-dabachil?trk=public_profile_browsemap" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 
- <a href="https://instagram.com/rishav_chanda" target="blank">  <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rishav_chanda" height="38" width="48" /></a>  
+ <a href="https://discord.com/login" target="blank">  <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rishav_chanda" height="38" width="48" /></a>  
 </p> 
 
-<p style="margin-top:33em;"> <b> Synez7#7300 </b></p>
+<p align="center"> <b> Synez7#7300 </b></p>
 </p>
 
 
