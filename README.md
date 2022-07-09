@@ -6,15 +6,9 @@
 
 - 🌱 I’m currently learning **VueJS**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
- 
-<a href="https://fr.linkedin.com/in/ali-dabachil?trk=public_profile_browsemap" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+<h3 align="left">Connect with me:</h3>  
 
- <a href="https://discord.com/login" target="blank">  <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"  height="38" width="48" title="Synez7#7300"></a>  
-</p> 
-
-<p><a href="https://www.linkedin.com/in/ali-dabachil"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>  <a href="https://discord.com/login"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height=25 title="Synez7#7300"></a></p>
+<p align="left"><a href="https://www.linkedin.com/in/ali-dabachil"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>  <a href="https://discord.com/login"><img align="left" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height=25 title="Synez7#7300"></a></p>
 
 
 <br>
