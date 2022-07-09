@@ -1,5 +1,4 @@
 <h1 align="center">Welcome to my Github Profile 👋 <br>I'm Ali Dabachil !</br></h1>
-<h3 align="center">A Software engineering student from University of Science and Technology, Montpellier (FR)</h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
