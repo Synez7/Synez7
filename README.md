@@ -14,7 +14,7 @@
  <a href="https://discord.com/login" target="blank">  <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"  height="38" width="48" title="Synez7#7300"></a>  
 </p> 
 
-<p><a href="https://www.linkedin.com/in/ali-dabachil"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>  <a href="https://discord.com/login"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a></p>
+<p><a href="https://www.linkedin.com/in/ali-dabachil"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>  <a href="https://discord.com/login"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height=25></a></p>
 
 
 <br>
