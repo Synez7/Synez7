@@ -21,8 +21,8 @@
 
 [![SkillIcons](https://skillicons.dev/icons?i=androidstudio,angular,bootstrap,c,cpp,css,docker,express,firebase,git,html,idea,java,js,linux,mongodb,mysql,nodejs,php,postgres,py,spring,symfony,ts&perline=6)](https://skillicons.dev)
 
-| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=synez7&show_icons=true&include_all_commits=true&theme=default&hide_border=true"/></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=synez7&layout=compact&theme=default&hide_border=true" /></a> |
+| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=synez7&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"/></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=synez7&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=synez7&theme=default" alt="synez7" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=synez7&theme=buefy" alt="synez7" /></p>
 
