@@ -22,5 +22,5 @@
 | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=synez7&show_icons=true&include_all_commits=true&theme=vue&hide_border=true"/></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=synez7&layout=compact&theme=vue&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=synez7&theme=graywhite" alt="synez7" /></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=synez7&theme=graywhite" alt="synez7" /></p>
 
