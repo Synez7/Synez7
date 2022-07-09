@@ -23,5 +23,5 @@
 
 <p><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=synez7&show_icons=true&locale=en&theme=vue" alt="synez7" /></p>
 
-<p><img align="center" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=synez7&theme=graywhite" alt="synez7" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=synez7&theme=graywhite" alt="synez7" /></p>
 
