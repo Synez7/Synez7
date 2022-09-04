@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my Github Profile 👋 <br>I'm Ali Dabachil !</br></h1>
+<h1 align="center">Welcome to my Github Profile 👋 </h1>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
