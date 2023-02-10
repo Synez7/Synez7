@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>  
 
-<p align="left"><a href="https://www.linkedin.com/in/ali-dabachil"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height=25></a>  <a href="https://discord.com/login"><img align="left" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height=25 title="Synez7#7300" target="_blank"></a></p>
+<p align="left"><a href="https://www.linkedin.com/in/ali-dabachil"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="noopener noreferrer" height=25></a>  <a href="https://discord.com/login"><img align="left" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height=25 title="Synez7#7300" target="_blank" rel="noopener noreferrer"></a></p>
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
