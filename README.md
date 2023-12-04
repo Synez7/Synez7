@@ -5,7 +5,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=IT%20Engineer;Interested%20in%20mobile%20and%20web%20app%20development%20;Always%20learning%20new%20technologies&font=Fira%20Code&center=true&width=940&height=45&color=08bcfc&vCenter=true&size=22"></a>
 </p>
 
-<img align="right" alt="Coding" width=600 src="https://www.euthissa.in/assets/img/portfolio/webdevel.gif">
+<img alt="Coding" width=600 src="https://www.euthissa.in/assets/img/portfolio/webdevel.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=synez7&label=Profile%20views&color=0e75b6&style=flat" alt="synez7" /> </p>
 
